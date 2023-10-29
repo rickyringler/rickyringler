@@ -2,7 +2,7 @@
 <h3 align="center">Data engineer and software developer</h3>
 
 ## 👻: Languages and Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,dotnet,flask,azure,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,dotnet,flask,mongodb,azure,mysql,)](https://skillicons.dev)
 
 ## ⭐: Hobbies
 - Motorcycles: I ride my sportbike daily!
