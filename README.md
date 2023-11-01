@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricky</h1>
-<h3 align="center">Data engineer and software developer</h3>
+<h3 align="center">Software application developer</h3>
 
 ## 👻: Languages and Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,dotnet,flask,mongodb,azure,mysql,)](https://skillicons.dev)
