@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,lua,py,flask,mongodb,azure,mysql,)](https://skillicons.dev)
 
 ## ⭐: Hobbies
-- Motorcycles: I ride my sportbike daily!
+- Motorcycles: I ride daily and love teaching other people to ride.
 - Fitness: Lifting heavy circles at 5:00am is my morning ritual.
 - Music: The only time I'm not listening to music is when I'm playing music.
 - Coding: Obviously.
