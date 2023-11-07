@@ -10,4 +10,5 @@
 - Music: The only time I'm not listening to music is when I'm playing music.
 - Coding: Obviously.
 ## ☄️: Current Projects
-- e-Commerce application solution: Easy-to-deploy, universal, e-commerce application under repo 'Byte Bazaar' (C#, XAML).
+- e-Commerce solution: Easy-to-deploy, simple, e-commerce application under repo 'Byte Bazaar' (C#, XAML).
+- Search Engine: Interactive search engine embedded with Lua under repo 'LunaSearch' (C++, Lua). 
