@@ -2,7 +2,7 @@
 <h3 align="center">Software and Application Engineer</h3>
 
 ## 👻: Languages and Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,lua,py,flask,mongodb,azure,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,dotnet,lua,cs,flask,mongodb,azure,mysql,)](https://skillicons.dev)
 
 ## ⭐: Hobbies
 - Motorcycles: I ride daily and love teaching other people to ride.
