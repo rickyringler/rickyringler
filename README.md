@@ -15,6 +15,6 @@
 - **Search engine:** Interactive search engine embedded with Lua (because Lua is the best). [![My Skills](https://skillicons.dev/icons?i=cpp,lua)](https://skillicons.dev) 
 - ## 🐧: Recently Completed Projects
 - **API Integration Microservice:** Integrates multiple, asychronously structured APIs. Really challenging, really fun. [![My Skills](https://skillicons.dev/icons?i=py,azure,postgres)](https://skillicons.dev)
-- **3D Samurai-Demon-Shooter:** How to waste a rainy weekend? Develop an entire story-driven 3D shooter-slasher. [![My Skills](https://skillicons.dev/icons?i=cpp,unreal)](https://skillicons.dev) 
+- **3D Samurai-Slasher-Shooter:** How to waste a rainy weekend? Develop an entire story-driven 3D shooter-slasher. [![My Skills](https://skillicons.dev/icons?i=cpp,unreal)](https://skillicons.dev) 
 - **ADHD-friendly daily planner:** Aggressive "to-do"-esque application. [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) 
 
