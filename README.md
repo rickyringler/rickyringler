@@ -13,8 +13,7 @@
 - **e-Commerce solution:** Easy-to-deploy, reusable e-commerce application [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) 
 - **Search engine:** Interactive search engine embedded with Lua (because Lua is the best) [![My Skills](https://skillicons.dev/icons?i=cpp,lua)](https://skillicons.dev) 
 - **ADHD-friendly daily planner:** Aggressive "to-do"-esque application [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-- ##🐧: Past Projects
+- ## 🐧: Recently Completed Projects
 - **API Integration Microservice:** Integrates multiple, asychronously structured APIs. Really challenging, really fun. [![My Skills](https://skillicons.dev/icons?i=py,js)](https://skillicons.dev) 
-- **Search engine:** Interactive search engine embedded with Lua (because Lua is the best) [![My Skills](https://skillicons.dev/icons?i=cpp,lua)](https://skillicons.dev) 
 - **ADHD-friendly daily planner:** Aggressive "to-do"-esque application [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) 
 
