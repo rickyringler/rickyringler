@@ -10,7 +10,7 @@
 - Music: **Always** top 0.01% of Spotify users.
 - Programming: Obviously. My favorite language is C++ but Lua has a special place in my heart.
 ## ☄️: Current Projects
-- **Windows File Organizer:** Over the course of the work week, my Downloads folder looks chaotic. No longer. [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) 
+- **C++ String Interpolation:** No comment on this one. [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) 
 - **e-Commerce solution:** Easy-to-deploy, reusable e-commerce application. [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) 
 - **Search engine:** Interactive search engine embedded with Lua (because Lua is the best). [![My Skills](https://skillicons.dev/icons?i=cpp,lua)](https://skillicons.dev) 
 - ## 🐧: Recently Completed Projects
