@@ -8,11 +8,11 @@
 - Motorcycles: I ride daily and love teaching.
 - Fitness: Lifting heavy circles at 5:00am.
 - Music: **Always** top 0.01% of Spotify users.
-- Programming: Obviously. My favorite language is C++ but Lua has a special place in my heart.
+- Programming: C++ and Lua are uncontested as my favorite languages of all time.
 ## ☄️: Current Projects
-- **C++ String Interpolation:** No comment on this one. [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) 
-- **e-Commerce solution:** Easy-to-deploy, reusable e-commerce application. [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) 
-- **Search engine:** Interactive search engine embedded with Lua (because Lua is the best). [![My Skills](https://skillicons.dev/icons?i=cpp,lua)](https://skillicons.dev) 
+- **Windows Task Scheduler Remake:** Windows Task Scheduler leaves a lot to be desired.. [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) 
+- **e-Commerce Solution:** Easy-to-deploy, reusable e-commerce application. [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) 
+- **Web-Networking and Geolocator App:** Find your friends to a stalker-ish degree. [![My Skills](https://skillicons.dev/icons?i=cpp,py,flask)](https://skillicons.dev) 
 - ## 🐧: Recently Completed Projects
 - **API Integration Microservice:** Integrates multiple, distinctly structured APIs. [![My Skills](https://skillicons.dev/icons?i=py,azure,postgres)](https://skillicons.dev)
 - **3D Samurai-Slasher-Shooter:** How to waste a rainy weekend? Develop an entire story-driven 3D shooter-slasher. [![My Skills](https://skillicons.dev/icons?i=cpp,unreal)](https://skillicons.dev) 
