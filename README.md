@@ -10,6 +10,6 @@
 - **e-Commerce Solution:**  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) 
 - ## 🐧: Recently Completed Projects
 - **API Integration Microservice:**  [![My Skills](https://skillicons.dev/icons?i=py,azure,postgres)](https://skillicons.dev)
-- **3D Samurai-Slasher-Shooter:**  [![My Skills](https://skillicons.dev/icons?i=cpp,unreal)](https://skillicons.dev) 
-- **ADHD-friendly daily planner:**  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) 
+- **3D Shooter:**  [![My Skills](https://skillicons.dev/icons?i=cpp,unreal)](https://skillicons.dev) 
+- **Agressive, ADHD-friendly daily planner:**  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) 
 
