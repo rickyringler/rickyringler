@@ -3,6 +3,7 @@
 
 ## 👻: My Favorites
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,lua)](https://skillicons.dev)
+"\n"
 [![My Skills](https://skillicons.dev/icons?i=azure,postgres,mongodb,unreal)](https://skillicons.dev)
 
 ## ☄️: Current Projects
