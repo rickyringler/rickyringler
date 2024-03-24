@@ -1,7 +1,7 @@
 
 <h3 align="center">Software Engineer</h3>
 
-## 👻: Languages and Tools I Use
+## 👻: My Favorites
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,lua,dotnet,cs,flask,mongodb,azure,postgres,unreal)](https://skillicons.dev)
 
 ## ☄️: Current Projects
