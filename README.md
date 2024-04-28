@@ -11,6 +11,6 @@
 ![Game Screenshot](https://github.com/rickyringler/rickyringler/assets/135162902/4bd1f60e-5b40-4db3-8c4b-4ace4b616987)
 
 ### Pipedream
-Data pipelining construction, scheduling, and monitoring software:
+Data pipelining studio:
 - **Tech Stack**: C++, C, ImGui, DirectX
 ![App Screenshot](https://github.com/rickyringler/rickyringler/assets/135162902/85f8608d-bfee-467c-97a0-fdd12f77d96b)
