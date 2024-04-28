@@ -1,8 +1,14 @@
 # Software Engineer
 
 ## My Favorites:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,lua)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=azure,postgres,mongodb,unreal,blender)](https://skillicons.dev)
+<div style="display: flex; justify-content: center;">
+    <div style="margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=cpp,c,py,lua" alt="C++, C, Python, Lua">
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=azure,postgres,mongodb,unreal,blender" alt="Azure, PostgreSQL, MongoDB, Unreal Engine, Blender">
+    </div>
+</div>
 
 ## Current Project:
 ### Remember Me Not
