@@ -6,8 +6,11 @@
 
 ## Current Project:
 ### Remember Me Not
-A 3D hack-and-slash, story-driven RPG developed from scratch:
+3D hack-and-slash, story-driven RPG:
 - **Tech Stack**: UE5, C++, Blender, GIMP
 ![Game Screenshot](https://github.com/rickyringler/rickyringler/assets/135162902/4bd1f60e-5b40-4db3-8c4b-4ace4b616987)
 
-
+### Pipedream
+Data pipelining construction, scheduling, and monitoring software:
+- **Tech Stack**: C++, C, ImGui, DirectX
+![App Screenshot](https://github.com/rickyringler/rickyringler/assets/135162902/85f8608d-bfee-467c-97a0-fdd12f77d96b)
