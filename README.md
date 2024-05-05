@@ -19,4 +19,4 @@
 
 - **Tech Stack**: C++, C, DirectX, HLSL
 
-![App Screenshot](![my_engine](https://github.com/rickyringler/rickyringler/assets/135162902/92da9f3d-c161-4faf-a373-cbce320ede22))
+[DirectX Fanboy Application](https://github.com/rickyringler/rickyringler/assets/135162902/92da9f3d-c161-4faf-a373-cbce320ede22))
