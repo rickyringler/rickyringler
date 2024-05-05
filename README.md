@@ -17,6 +17,6 @@
 ### Vertexium
 3D game/graphics engine from scratch:
 
-- **Tech Stack**: C++, C, DirectX, WinAPI
+- **Tech Stack**: C++, C, DirectX, HLSL
 
-![App Screenshot](https://github.com/rickyringler/rickyringler/assets/135162902/85f8608d-bfee-467c-97a0-fdd12f77d96b)
+![App Screenshot](![my_engine](https://github.com/rickyringler/rickyringler/assets/135162902/92da9f3d-c161-4faf-a373-cbce320ede22))
