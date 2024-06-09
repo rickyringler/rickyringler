@@ -12,7 +12,8 @@
 
 - **Tech Stack**: UE5, C++, Blender, GIMP
 
-![Game Screenshot](https://github.com/rickyringler/rickyringler/assets/135162902/4bd1f60e-5b40-4db3-8c4b-4ace4b616987)
+![game_i_made](https://github.com/rickyringler/rickyringler/assets/135162902/df6e05e3-9187-4ce0-90ba-cd73de384a13)
+
 
 ### Vertexium
 3D game/graphics engine from scratch:
