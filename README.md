@@ -9,18 +9,17 @@
 ## Current Projects:
 <div align="center">
 
-### **Remember Me Not**
-
-#### *3D RPG*
-![game_i_made](https://github.com/rickyringler/rickyringler/assets/135162902/df6e05e3-9187-4ce0-90ba-cd73de384a13)
-
 ### **Vertexium**
 
 #### *3D game/graphics engine*
 
+https://github.com/user-attachments/assets/cfba3771-4bf7-4e47-a6bb-3d9af08d07f7
+
+### **Remember Me Not**
+
+#### *3D RPG*
+![game_i_made](https://github.com/rickyringler/rickyringler/assets/135162902/df6e05e3-9187-4ce0-90ba-cd73de384a13)
 </div>
 
-
-https://github.com/user-attachments/assets/cfba3771-4bf7-4e47-a6bb-3d9af08d07f7
 
 
