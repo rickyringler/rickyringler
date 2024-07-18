@@ -8,16 +8,14 @@
 
 ## Current Projects:
 ### Remember Me Not
-3D hack-and-slash, story-driven RPG:
-
-- **Tech Stack**: UE5, C++, Blender, GIMP
+3D RPG:
 
 ![game_i_made](https://github.com/rickyringler/rickyringler/assets/135162902/df6e05e3-9187-4ce0-90ba-cd73de384a13)
 
 
 ### Vertexium
-3D game/graphics engine from scratch:
+3D game/graphics engine:
 
-- **Tech Stack**: C++, C, DirectX, HLSL
+https://github.com/user-attachments/assets/cfba3771-4bf7-4e47-a6bb-3d9af08d07f7
 
-![DirectX Fanboy Application](https://github.com/rickyringler/rickyringler/assets/135162902/92da9f3d-c161-4faf-a373-cbce320ede22)
+
