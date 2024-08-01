@@ -1,12 +1,10 @@
-# Software Engineer
-
 ## My Favorites:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c,py,lua" alt="C++, C, Python, Lua">
     <img src="https://skillicons.dev/icons?i=azure,postgres,mongodb,unreal,blender" alt="Azure, PostgreSQL, MongoDB, Unreal Engine, Blender">
 </p>
 
-## Current Projects:
+## Fun Stuff:
 <div align="center">
 
 ### **Vertexium**
