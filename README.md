@@ -22,6 +22,12 @@ https://github.com/user-attachments/assets/5ddb72c0-657e-44c9-9882-84833775cb18
 ## Blender - T-Pose
 ![blender_character](https://github.com/user-attachments/assets/4d99fff0-630c-47b8-9493-32b3512315f9)
 
+## UE5 - Custom Water Ripples Shader
+
+https://github.com/user-attachments/assets/815d3203-2ae2-4eb7-8685-a327b264ce5a
+
+## Cool Photography - 3D FP RPG
+https://github.com/user-attachments/assets/c52cddff-386d-497e-a800-28aefce43d4a
 
 
 </div>
