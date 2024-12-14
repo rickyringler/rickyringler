@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## Fun Stuff I've Done Recently
+## Fun Stuff I Have Been Working On Recently:
 
 ---
 
