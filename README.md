@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,lua" alt="C++, C, Python, Lua">
-    <img src="https://skillicons.dev/icons?i=unreal,blender" alt="Azure, PostgreSQL, MongoDB, Unreal Engine, Blender">
+    <img src="https://skillicons.dev/icons?i=cpp,c" alt="C">
+    <img src="https://skillicons.dev/icons?i=unreal,blender" alt="A">
 </p>
 
 <div align="center">
