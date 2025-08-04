@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## Recent Projects:
+## Fun Stuff:
 
 ---
 
