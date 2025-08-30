@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## Fun Stuff:
+## Recent Fun Stuff:
 
 ---
 
