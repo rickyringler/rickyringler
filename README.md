@@ -1,6 +1,5 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c" alt="C">
-    <img src="https://skillicons.dev/icons?i=unreal,blender" alt="A">
 </p>
 
 <div align="center">
