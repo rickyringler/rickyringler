@@ -10,13 +10,14 @@
   <tr>
     <td>
       <video src="https://github.com/user-attachments/assets/90d5aeff-3716-4ad2-96f5-9bee8dc7e1b3"
-             controls width="100%" preload="none"
-             poster="https://github.com/user-attachments/assets/e8d775f7-7a31-4e04-af52-f0ac1362b00f">
+             controls height="35%" preload="none"
+             poster="https://github.com/user-attachments/assets/e8d775f7-7a31-4e04-af52-f0ac1362b00f"
+        width = 50%>
       </video>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/e8d775f7-7a31-4e04-af52-f0ac1362b00f"
-           alt="Photo" width="100%">
+           alt="Photo" width="50%" height=50%>
     </td>
   </tr>
 
